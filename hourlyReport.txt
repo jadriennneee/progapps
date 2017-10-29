@@ -1,0 +1,12 @@
+=============
+HOURLY REPORT
+============= 
+#Kindly indicate the time of edit, 
+#your name and the task you have accomplished
+#Ex: 
+# JODY(10:09 AM): finished creating the file for 
+# the hourly report
+# 
+# JESSIE(10:30 AM): blablablablabla
+# DO NOT INCLUDE HASHTAGS BEFORE YOUR NAME
+
