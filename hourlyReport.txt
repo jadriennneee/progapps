@@ -15,3 +15,4 @@ ubuntu server.
 FRANZ(10:40 AM): finished pulling & pushing the file for the hourly report
 
 GENESIS(12:45 PM): finished pulling and pushing the file for the hourly report.
+GENESIS(1:09 PM): just finished learning how to add clients and creating a server by using the VisualVSN and the TortoiseSVN.
