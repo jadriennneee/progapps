@@ -12,3 +12,4 @@ HOURLY REPORT
 JESSIE(10:30 AM): Finished the screenshot for installing
 ubuntu server.
 
+FRANZ(10:40 AM): finished pulling & pushing the file for the hourly report
