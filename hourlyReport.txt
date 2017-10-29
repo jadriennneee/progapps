@@ -13,7 +13,7 @@ JESSIE(10:30 AM): Finished the screenshot for installing
 ubuntu server.
 
 FRANZ(10:40 AM): finished pulling & pushing the file for the hourly report
-FRANZ(2:12 PM): finished learning how to install subversion/SVN via the Ubuntu Server. And also with the documentation on how to install subversion/SVN.
+FRANZ(2:12 PM): finished learning how to install subversion/SVN via the Ubuntu Server. And also with the documentation on how to install subversion/SVN. And also how to add users into the SVN server.
 
 GENESIS(12:45 PM): finished pulling and pushing the file for the hourly report.
 GENESIS(1:09 PM): just finished learning how to add clients and creating a server by using the VisualVSN and the TortoiseSVN.
