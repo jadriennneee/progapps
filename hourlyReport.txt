@@ -17,3 +17,5 @@ FRANZ(2:12 PM): finished learning how to install subversion/SVN via the Ubuntu S
 
 GENESIS(12:45 PM): finished pulling and pushing the file for the hourly report.
 GENESIS(1:09 PM): just finished learning how to add clients and creating a server by using the VisualVSN and the TortoiseSVN.
+
+KHRISTIAN(6:05 PM): finished pulling and pushing the file for the hourly report.
