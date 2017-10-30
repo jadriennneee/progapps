@@ -6,7 +6,7 @@ HOURLY REPORT
 #Ex: 
 # JODY(10:09 AM): finished creating the file for 
 # the hourly report
-# 
+# hh
 # JESSIE(10:30 AM): blablablablabla
 # DO NOT INCLUDE HASHTAGS BEFORE YOUR NAME
 JESSIE(10:30 AM): Finished the screenshot for installing
