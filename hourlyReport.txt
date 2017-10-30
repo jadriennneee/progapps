@@ -19,3 +19,5 @@ GENESIS(12:45 PM): finished pulling and pushing the file for the hourly report.
 GENESIS(1:09 PM): just finished learning how to add clients and creating a server by using the VisualVSN and the TortoiseSVN.
 
 KHRISTIAN(6:05 PM): finished pulling and pushing the file for the hourly report.
+
+JODY(4:29 PM): finished installing svn on windows svn... trying to revert git
